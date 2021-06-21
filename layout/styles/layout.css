@@ -151,3 +151,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #copyright ul{display:block; float:left; margin:0; padding:0; width:700px;}
 #copyright li{display:inline; margin-right:8px; padding-right:10px; border-right:1px solid #CCCCCC;}
 #copyright li.last{margin-right:0; padding-right:0; border-right:none;}
+
+.ParagraphClass
+{
+  font-size:20px;
+}
